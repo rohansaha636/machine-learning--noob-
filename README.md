@@ -6,7 +6,7 @@ I created this repo while learning and experimenting with ML concepts step by st
 
 ---
 
-## 🚀 What This Repository Covers
+##₹ 🚀 What This Repository Covers
 
 * 🔹 Supervised Learning
 
