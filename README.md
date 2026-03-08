@@ -4,7 +4,7 @@ This repository contains my personal study notes, practice notebooks, and implem
 
 I created this repo while learning and experimenting with ML concepts step by step. It includes theory notes, practical implementations, and small experiments to understand how algorithms actually work.
 
----
+
 
 ## 🚀 What This Repository Covers
 
