@@ -1,4 +1,4 @@
-# 📘 Classical Machine Learning – Study Material
+## 📘 Classical Machine Learning – Study Material
 
 This repository contains my personal study notes, practice notebooks, and implementations related to **Classical Machine Learning**.
 
