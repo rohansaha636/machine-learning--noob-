@@ -1,6 +1,6 @@
 ## 📘 Classical Machine Learning  Study Material
 
-This repository contains my personal study notes, practice notebooks, and implementations related to **Classical Machine Learning**.
+This  repository contains my personal study notes, practice notebooks, and implementations related to **Classical Machine Learning**.
 
 I created this repo while learning and experimenting with ML concepts step by step. It includes theory notes, practical implementations, and small experiments to understand how algorithms actually work.
 
